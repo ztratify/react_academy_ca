@@ -1,0 +1,8 @@
+body {
+  font-family: "Helvetica Neue", "Arial", "sans-serif";
+  color: #4a4a4a;
+}
+
+input[type="text"] {
+  font-size: 1em;
+}

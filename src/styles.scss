@@ -1,0 +1,16 @@
+$body-bg: #00d8ff;
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  width: 80%;
+}
+
+#count-input {
+  max-width: 150px;
+  display: inline-block;
+  font-size: 0.8em;
+}
+
+@import "~bootstrap/scss/bootstrap.scss";
